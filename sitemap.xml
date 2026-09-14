@@ -7,14 +7,14 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aktivnijablonec.cz/o-nas.html</loc>
-    <lastmod>2026-08-29</lastmod>
+    <loc>https://www.aktivnijablonec.cz/o-nas/</loc>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aktivnijablonec.cz/akce.html</loc>
-    <lastmod>2026-08-29</lastmod>
+    <loc>https://www.aktivnijablonec.cz/akce/</loc>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
